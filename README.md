@@ -41,7 +41,7 @@ Pull Requests are always welcome, just edit the part you want to contribute and 
 
 ## License
 
-[ISC](https://choosealicense.com/licenses/isc/) © [turkwr](https://github.com/turkwr)
+[ISC](https://choosealicense.com/licenses/isc/) © [shwrey](https://github.com/shwrey)
 
 ## 👀 Example config.js file
 
